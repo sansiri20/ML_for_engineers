@@ -80,12 +80,3 @@ hold on
 scatter3(data(:,1),data(:,2),data(:,3))
 scatter3(data(:,1),data(:,2),Z2_1)
 hold off
-
-
-
-
-
-
-
-
-

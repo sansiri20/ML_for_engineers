@@ -1,2 +1,2 @@
-# ML_for_engineers
+# Machine Learning project
 Implementation of various machine learning algorithms
